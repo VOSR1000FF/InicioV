@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Activar el entorno virtual
-source ~/miniconda3/bin/activate
+source ~/miniconda3/envs/myenv/bin/activate
 
 # Ejecuta el script de Python
 python /home/siles/comparar/InicioV/ProyectoVosr.py
